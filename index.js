@@ -1,1 +1,1 @@
-console.log("Jovyaaaa")
+console.log("Simmigon Flagg!")

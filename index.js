@@ -1,1 +1,1 @@
-console.log("index console log")
+console.log("foo bar")
